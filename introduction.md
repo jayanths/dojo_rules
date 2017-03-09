@@ -1,2 +1,4 @@
 Introducing Jay
-Ruby
+*Ruby
+*Git
+*JavaScript
